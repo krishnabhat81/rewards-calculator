@@ -1,0 +1,24 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+target/
+pom.xml.*
+dependency-reduced-pom.xml
+
+# Logs
+log/
+logs/
+
+# Compiled Java classes
+*.class
+
+# Compiled JSP pages
+*.jspc
